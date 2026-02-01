@@ -91,8 +91,6 @@ The system allows users to upload a leaf image and receive:
 - Confidence score
 - Treatment advice
 
-![Output](docs/output.png)
-
 
 
 ## 🔁 Build Reproducibility
@@ -106,3 +104,4 @@ To recreate this project:
 5. Place the model inside website/model/
 6. Run python app.py
 This allows anyone to rebuild this project from scratch.
+
